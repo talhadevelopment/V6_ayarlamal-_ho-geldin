@@ -5,4 +5,4 @@
 
 `Adım #3` `index.js` dosyasındaki 23 ve 26.satırlarda bulunan gerekli yerleri doldurun.
 
-`Adım #4` 
+`Adım #4` Terminal açıp `node index.js` yazarak botu başlatın.
