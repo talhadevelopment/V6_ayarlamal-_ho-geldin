@@ -6,3 +6,6 @@
 `Adım #3` `index.js` dosyasındaki 23 ve 26.satırlarda bulunan gerekli yerleri doldurun.
 
 `Adım #4` Terminal açıp `node index.js` yazarak botu başlatın.
+
+# 📸 Fotoğraflar
+https://cdn.discordapp.com/attachments/1180421335705456672/1190205738409271346/20231229_111018.jpg?ex=65a0f478&is=658e7f78&hm=d0f00a05df3fce39cf2094cb5a9178b4d682b32a95ad888fcf07fe6dbfd42457&
