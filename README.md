@@ -3,4 +3,6 @@
 
 `Adım #2` `index.js` dosyasındaki 5.satırda bulunan `prefix` kısmına kendi bot prefixinizi girin.
 
-`Adım #3` `index.js` dosyasındaki 
+`Adım #3` `index.js` dosyasındaki 23 ve 26.satırlarda bulunan gerekli yerleri doldurun.
+
+`Adım #4` 
